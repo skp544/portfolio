@@ -814,7 +814,7 @@ section {
     margin-top: 1.5rem;
   }
   .section {
-    padding: 2rem 2.5rem !important;
+    padding: 2rem 2.5rem;
   }
   .main-title h2 {
     font-size: 2rem;
@@ -824,6 +824,9 @@ section {
   }
   .main-title h2 .bg-text {
     font-size: 3rem;
+  }
+  .sec5 {
+    padding-bottom: 6rem;
   }
 }
 @media screen and (max-width: 355px) {
