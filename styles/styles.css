@@ -799,6 +799,10 @@ section {
   .contact-content-con {
     flex-direction: column;
   }
+  .contact-content-con .left-contact h4,
+  .contact-content-con .left-contact p {
+    text-align: center;
+  }
   .contact-content-con .right-contact {
     margin-left: 0;
     margin-top: 2.5rem;
