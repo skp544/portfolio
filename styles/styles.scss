@@ -390,8 +390,6 @@ section {
             width: 60%;
           }
 
-        
-
           .c {
             width: 80%;
           }
@@ -569,10 +567,6 @@ section {
   transform: scale(1);
 }
 
-
-
-
-
 // contact
 
 .contact-content-con {
@@ -596,7 +590,6 @@ section {
         display: flex;
         align-items: center;
         justify-content: space-between;
-       
       }
       p {
         margin: 0.3rem 0 !important;
@@ -675,11 +668,12 @@ section {
     .submit-btn {
       display: flex;
       justify-content: flex-start;
-      
-      .main-btn{
+
+      .main-btn {
         outline: none;
-  background: none;
-  font-size: 1.2rem;
+        background: none;
+        font-size: 1.2rem;
+        cursor: pointer;
       }
     }
   }
