@@ -52,3 +52,14 @@ function pageTransition() {
 }
 
 pageTransition();
+
+// TYPING EFFECT
+
+let typeRole = new Typed(".role", {
+  strings: ["Frontend Developer", "Web Developer", "Coder"],
+  loop: true,
+  typeSpeed: 100,
+  backSpeed: 80,
+  backDelay: 1000,
+  startDelay: 1000,
+});
