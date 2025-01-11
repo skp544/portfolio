@@ -56,7 +56,12 @@ pageTransition();
 // TYPING EFFECT
 
 let typeRole = new Typed(".role", {
-  strings: ["Frontend Developer", "Web Developer", "Coder"],
+  strings: [
+    "Full Stack Developer",
+    "Frontend Developer",
+    "Web Developer",
+    "Coder",
+  ],
   loop: true,
   typeSpeed: 100,
   backSpeed: 80,
